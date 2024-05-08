@@ -1,0 +1,264 @@
+{
+  "admin": [
+    {
+      "admin_name": "admin",
+      "admin_password": "1234",
+      "id": "6d14"
+    }
+  ],
+  "subject": [
+    {
+      "id": "3c74",
+      "subject_name": "Java"
+    },
+    {
+      "id": "0753",
+      "subject_name": "cpp"
+    }
+  ],
+  "Exam": [
+    {
+      "id": "1",
+      "exam_name": "Maths",
+      "exam_desc": "This is Math Exam",
+      "exam_date": "17-4-2024 17:49:39",
+      "exam_marks": "5",
+      "exam_totalQuestion": "5",
+      "exam_passMarks": "3",
+      "exam_level": "Easy"
+    },
+    {
+      "id": "035b",
+      "exam_name": "Java",
+      "exam_desc": "",
+      "exam_level": "",
+      "exam_passMarks": "",
+      "exam_totalQuestion": "",
+      "exam_marks": "",
+      "exam_date": "4/15/2024, 6:51:05 AM"
+    },
+    {
+      "id": "ff20",
+      "exam_name": "Java",
+      "exam_desc": "",
+      "exam_level": "",
+      "exam_passMarks": "",
+      "exam_totalQuestion": "",
+      "exam_marks": "",
+      "exam_date": "4/15/2024, 6:51:05 AM"
+    },
+    {
+      "id": "fb35",
+      "exam_name": "Java",
+      "exam_desc": "",
+      "exam_level": "",
+      "exam_passMarks": "",
+      "exam_totalQuestion": "",
+      "exam_marks": "",
+      "exam_date": "4/15/2024, 6:51:19 AM"
+    },
+    {
+      "id": "db40",
+      "exam_name": "Java",
+      "exam_desc": "",
+      "exam_level": "",
+      "exam_passMarks": "",
+      "exam_totalQuestion": "",
+      "exam_marks": "",
+      "exam_date": "4/15/2024, 6:51:19 AM"
+    },
+    {
+      "id": "2005",
+      "exam_name": "Java",
+      "exam_desc": "",
+      "exam_level": "",
+      "exam_passMarks": "",
+      "exam_totalQuestion": "",
+      "exam_marks": "",
+      "exam_date": "4/15/2024, 6:51:19 AM"
+    },
+    {
+      "id": "b2ad",
+      "exam_name": "FSD",
+      "exam_desc": "",
+      "exam_level": "",
+      "exam_passMarks": "",
+      "exam_totalQuestion": "",
+      "exam_marks": "",
+      "exam_date": "5/6/2024, 6:47:13 PM"
+    },
+    {
+      "id": "4f20",
+      "exam_name": "FSD",
+      "exam_desc": "",
+      "exam_level": "",
+      "exam_passMarks": "",
+      "exam_totalQuestion": "",
+      "exam_marks": "",
+      "exam_date": "5/6/2024, 6:47:13 PM"
+    }
+  ],
+  "Question": [
+    {
+      "id": "1",
+      "question_name": "10-5 ?",
+      "option_one": "3",
+      "option_two": "1",
+      "option_three": "2",
+      "option_four": "5",
+      "question_answer": "5",
+      "exam_id": 1,
+      "subject_name": "Maths"
+    },
+    {
+      "id": "2",
+      "question_name": "10+5 ?",
+      "option_one": "3",
+      "option_two": "1",
+      "option_three": "4",
+      "option_four": "15",
+      "question_answer": "15",
+      "exam_id": 1,
+      "subject_name": "Maths"
+    },
+    {
+      "question_name": "10*5",
+      "option_one": "10",
+      "option_two": "5",
+      "option_three": "50",
+      "option_four": "2",
+      "question_answer": "50",
+      "exam_id": "1",
+      "subject_name": "Maths",
+      "id": "3"
+    },
+    {
+      "question_name": "110-10 ?",
+      "option_one": "110",
+      "option_two": "100",
+      "option_three": "10",
+      "option_four": "1",
+      "question_answer": "100",
+      "exam_id": "1",
+      "subject_name": "Maths",
+      "id": "4"
+    },
+    {
+      "question_name": "10/2 = ?",
+      "option_one": "1",
+      "option_two": "5",
+      "option_three": "10",
+      "option_four": "7",
+      "question_answer": "5",
+      "exam_id": "1",
+      "subject_name": "Maths",
+      "id": "5"
+    }
+  ],
+  "Result": [
+    {
+      "id": "1",
+      "result_status": "Pass",
+      "result_score": "3",
+      "user_email": "ram@gmail.com",
+      "exam_date": "12-23-12",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "id": "2",
+      "result_status": "Pass",
+      "result_score": "3",
+      "user_email": "ram@gmail.com",
+      "exam_date": "12-23-12",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "id": "3",
+      "result_status": "Pass",
+      "result_score": "3",
+      "user_email": "shiv@gmail.com",
+      "exam_date": "12-23-12",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5"
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 3,
+      "user_email": "ram@gmail.com",
+      "exam_date": "18-9-2021 20:49:39",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": "4"
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 4,
+      "user_email": "vishnu@gmail.com",
+      "exam_date": "19-9-2021 15:11:27",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": "5"
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 4,
+      "user_email": "agni@gmail.com",
+      "exam_date": "19-9-2021 15:20:37",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": "6"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "user_name": "ram",
+      "user_email": "ram@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "id": "2",
+      "user_name": "shiv",
+      "user_email": "shiv@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "user_name": "Vishnu",
+      "user_email": "vishnu@gmail.com",
+      "user_password": "123",
+      "id": "3"
+    },
+    {
+      "user_name": "Agni",
+      "user_email": "agni@gmail.com",
+      "user_password": "123",
+      "id": "4"
+    },
+    {
+      "id": "f286",
+      "user_name": "Rahul",
+      "user_email": "rahul@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "id": "dcb5",
+      "user_name": "krishna",
+      "user_email": "krishna@gmail.com",
+      "user_password": "12345"
+    }
+  ]
+}
